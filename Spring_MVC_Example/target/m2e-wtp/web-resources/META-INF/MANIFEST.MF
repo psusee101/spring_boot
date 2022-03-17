@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: joydom
+Build-Jdk: 11.0.12
+Implementation-Title: Spring_Boot_MVC_Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.springframework.samples.service.service
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Spring_Boot_MV
+ C_Example/
+Created-By: Maven Integration for Eclipse
+
